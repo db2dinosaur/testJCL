@@ -1,0 +1,7 @@
+# manifest for testJCL
+# This is a list of the JCL that we want to run.
+# Before we get to that, here's a list of variables that we need substitution:
+#
+# * #USER#    = Userid that's running the job / userid dataset HLQ
+#
+IEBGENER.jcl
